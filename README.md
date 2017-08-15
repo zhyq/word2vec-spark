@@ -1,1 +1,1 @@
-# word2vec-spark
+spark word2vec train and save the word vector
