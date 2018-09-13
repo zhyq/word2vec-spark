@@ -1,1 +1,1 @@
-spark word2vec train and save the word vector
+### spark word2vec train word2vec on spark and save as text file(google word2vec format )### result![image](https://raw.githubusercontent.com/zhyq/word2vec-spark/master/IMG_4637.PNG)![image](https://raw.githubusercontent.com/zhyq/word2vec-spark/master/IMG_4638.PNG)![image](https://raw.githubusercontent.com/zhyq/word2vec-spark/master/IMG_4639.PNG)![image](https://raw.githubusercontent.com/zhyq/word2vec-spark/master/IMG_4643.PNG)
